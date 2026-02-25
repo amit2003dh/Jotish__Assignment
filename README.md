@@ -128,7 +128,7 @@ Open:
 http://localhost:3000
 
 
- Architecture Approach
+## Architecture Approach
 
 Component-driven design
 
@@ -142,7 +142,7 @@ API abstraction layer
 
 Type-safe interfaces
 
- What This Demonstrates
+## What This Demonstrates
 
 Advanced React + TypeScript skills
 
@@ -158,6 +158,6 @@ Browser API integration (WebRTC)
 
 Production-ready structure
 
- Author
+## Author
 
 Developed as a technical internship assignment for Jotish.
