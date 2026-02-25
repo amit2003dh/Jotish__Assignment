@@ -114,11 +114,13 @@ Retake functionality
 Note: Camera requires HTTPS in production.
 
 ## Development Setup
-git clone <https://github.com/amit2003dh/jotish_Assignment.git>
+git clone <https://github.com/amit2003dh/Jotish__Assignment>
 
 
 cd jotish-assignment
+
 npm install
+
 npm start
 
 Open:
