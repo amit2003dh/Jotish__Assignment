@@ -126,3 +126,38 @@ npm start
 Open:
 
 http://localhost:3000
+
+
+ Architecture Approach
+
+Component-driven design
+
+Clear separation of concerns
+
+Reusable visualization components
+
+Route-based navigation
+
+API abstraction layer
+
+Type-safe interfaces
+
+ What This Demonstrates
+
+Advanced React + TypeScript skills
+
+REST API integration
+
+State & lifecycle handling
+
+Modern UI design principles
+
+Data visualization implementation
+
+Browser API integration (WebRTC)
+
+Production-ready structure
+
+ Author
+
+Developed as a technical internship assignment for Jotish.
